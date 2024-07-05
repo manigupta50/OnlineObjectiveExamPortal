@@ -61,8 +61,8 @@ For development, you will need Node and a node global package, npm, installed in
 
 - #### Step 1
     
-    $ git clone https://github.com/manigupta50/OnlineObjectiveExamPortal/
-    $ cd OnlineObjectiveExamPortal
+        $ git clone https://github.com/manigupta50/OnlineObjectiveExamPortal/
+        $ cd OnlineObjectiveExamPortal
 
 - #### Step 2
     Go to backend folder and run the following command
