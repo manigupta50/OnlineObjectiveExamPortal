@@ -60,14 +60,12 @@ For development, you will need Node and a node global package, npm, installed in
 
         $ npm install npm -g
 
----
-
 ## Steps to Run Locally-
 
 - #### Step 1
     
-    $ git clone https://github.com/manigupta50/IssueTracker/
-    $ cd OnlineAssessmentApp
+    $ git clone https://github.com/manigupta50/OnlineObjectiveExamPortal/
+    $ cd OnlineObjectiveExamPortal
 
 - #### Step 2
     - Go to backend folder and run the following command
@@ -85,4 +83,6 @@ For development, you will need Node and a node global package, npm, installed in
     - Once installed run:
     
     $ npm start
+
+---
 
