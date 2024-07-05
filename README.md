@@ -64,17 +64,25 @@ For development, you will need Node and a node global package, npm, installed in
 
 ## Steps to Run Locally-
 
-- ### Step 1
+- #### Step 1
+    
     $ git clone https://github.com/manigupta50/IssueTracker/
     $ cd OnlineAssessmentApp
 
-- ### Step 2
-    - Go to backend folder and run:
-        $ npm i
+- #### Step 2
+    - Go to backend folder and run the following command
+    
+    $ npm i
+    
     - Once installed run:
-        $ npm start
-    - Go to frontend folder and run:
-        $ npm i
+    
+    $ npm start
+    
+    - Go to frontend folder and run the following command
+    
+    $ npm i
+    
     - Once installed run:
-        $ npm start
+    
+    $ npm start
 
