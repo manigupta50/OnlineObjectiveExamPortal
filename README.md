@@ -5,13 +5,10 @@
 
 ## Description-
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This web app can assess your skills based on 10 questions
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+- Admin's can add new questions
+- Users can take exam by sharing the login details
 
 ## Tech-Stack-
 
@@ -68,21 +65,21 @@ For development, you will need Node and a node global package, npm, installed in
     $ cd OnlineObjectiveExamPortal
 
 - #### Step 2
-    - Go to backend folder and run the following command
+    Go to backend folder and run the following command
     
-    $ npm i
+        $ npm i
     
-    - Once installed run:
+    Once installed run:
     
-    $ npm start
+        $ npm start
     
-    - Go to frontend folder and run the following command
+    Go to frontend folder and run the following command
     
-    $ npm i
+        $ npm i
     
-    - Once installed run:
+    Once installed run:
     
-    $ npm start
+        $ npm start
 
 ---
 
